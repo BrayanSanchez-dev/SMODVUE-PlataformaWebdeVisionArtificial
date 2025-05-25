@@ -1,0 +1,25 @@
+# Django
+Django==5.2
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+django-filter==23.5
+django-rest-authtoken==2.1.5
+
+# Base de datos
+psycopg2-binary==2.9.9
+
+# Procesamiento de imágenes y 3D
+Pillow==10.1.0
+numpy==1.26.2
+opencv-python==4.9.0.80
+matplotlib==3.8.2
+scikit-image==0.22.0
+
+# Utilitarias
+python-dotenv==1.0.0
+requests==2.31.0
+pyjwt==2.8.0
+pytz==2023.3.post1
+whitenoise==6.6.0
+jsonschema==4.19.2
+gunicorn==21.2.0
